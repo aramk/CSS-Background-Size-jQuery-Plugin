@@ -7,7 +7,7 @@ Replicates the functionality of CSS3 background-size for "contain" and "cover" k
 
 Add an image inside a div. Set the height and width of the div and set 'cover' or 'contain' to replicate the CSS3 background-size property in browsers that don't support it.
 
-	<div style="width: 400; height: 300;">
+	<div style="width: 400px; height: 300px;">
 		<img class="background-size-cover" src="apple.jpg" />
 	</div>
 	
