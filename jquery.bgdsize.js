@@ -8,7 +8,6 @@
 (function($) {
 
 	$.bgdSize = function(el, options) {
-
 		var base = this;
 
 		base.defaults = {
@@ -85,7 +84,6 @@
 		};
 
 		base.init();
-
 	};
 
 	$.fn.bgdSize = function(options) {
