@@ -1,8 +1,9 @@
 /*
  * CSS Background-Size jQuery Plugin v.1.0
  *
- * By Aram Kocharyan, 2012
- * http://ak.net84.net/
+ * By Aram Kocharyan, 2012.
+ * Released under the MIT licence.
+ * http://aramk.com/
  */
 
 (function($) {
